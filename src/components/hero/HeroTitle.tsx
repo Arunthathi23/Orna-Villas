@@ -6,7 +6,7 @@ export default function HeroTitle() {
         <div className="flex flex-col">
           <div className="overflow-hidden py-0.5">
             <span className="title-word-ornavillas block text-[clamp(4.2rem,9.2vw,9.8rem)] font-light leading-[0.84] tracking-[-0.04em] text-white">
-            Orno-Villas
+            PSG-Villas
             </span>
           </div>
           <div className="overflow-hidden py-0.5">
